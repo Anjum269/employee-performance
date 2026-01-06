@@ -38,4 +38,4 @@ def main(test_mode=False):
     print("Grade:", grade)
 
 if __name__ == "__main__":
-    main(test_mode=True)   # Jenkins-safe execution
+    main(test_mode=True)
